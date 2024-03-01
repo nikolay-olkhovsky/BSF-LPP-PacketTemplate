@@ -40,6 +40,11 @@ bld/
 
 # Visual Studio 2017 auto generated files
 Generated\ Files/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+.gitignore
+.gitattributes
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
